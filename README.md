@@ -18,6 +18,8 @@ WordMarker 是一款专注于将 Markdown 高效转换为完美排版 Word 文�
 
 ## 支持我
 
-![微信支付](images\wechatpay.jpg)
+> 如果您觉得 WordMarker 对您的工作有所帮助，欢迎通过以下方式支持我们的持续开发与优化。支持金额超过20元的用户，送激活码。
 
-![支付宝支付](images\alipay.jpg)
+![微信支付](./images/wechatpay.jpg)
+
+![支付宝支付](./images/alipay.jpg)

@@ -28,8 +28,8 @@ WordMarker支持两种转换方式：直接复制和转换为文件。
 
 ## 支持我
 
+![支持我](./images/打赏二维码.png)
+
 > 如果您觉得 WordMarker 对您的工作有所帮助，欢迎通过以下方式支持我们的持续开发与优化。
 
-![微信支付](./images/wechatpay.jpg)
 
-![支付宝支付](./images/alipay.jpg)

@@ -2,6 +2,12 @@
 
 ![WordMarker Logo](./images/app-icon.png)
 
+[我的马克Github地址](https://github.com/CarrotWuDev/WordMarker)
+
+[我的马克下载直链](https://www.ilanzou.com/s/2mGM2MKS?code=2026)
+
+[我的马克V1.1.0更新说明](https://mp.weixin.qq.com/s/8eagjf6g8peXvD3knf-r_A)
+
 WordMarker能够将AI生成的文本转换为Word格式，支持DeepSeek、豆包、千问、Kimi、ChatGPT、Gemini、Claude等国内外AI模型。是你在公文写作、论文写作、课程作业等场景的好助手。
 
 ![alt text](./images/image.png)

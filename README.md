@@ -1,4 +1,4 @@
-# 我的马克：将AI生成的文档转换为Word
+# 我的马克：将AI生成的文本转换为Word
 
 ![WordMarker Logo](./images/app-icon.png)
 

@@ -1,4 +1,4 @@
-# 我的马克：AI 时代的文档排版利器
+# 我的马克：将AI生成的文档转换为Word
 
 ![WordMarker Logo](./images/app-icon.png)
 

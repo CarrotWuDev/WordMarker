@@ -1,14 +1,21 @@
-# 我的马克：将AI生成的文本转换为Word
+# 我的马克：将AI生成的内容转换为Word格式
 
 ![WordMarker Logo](./images/app-icon.png)
 
 ---
+
+
+[我的马克视频介绍](https://www.bilibili.com/video/BV1wwNgzhEac/?spm_id_from=333.1387.0.0)
 
 [我的马克Github地址](https://github.com/CarrotWuDev/WordMarker)
 
 [我的马克下载直链](https://www.ilanzou.com/s/2mGM2MKS?code=2026)
 
 [我的马克V1.1.0更新说明](https://mp.weixin.qq.com/s/8eagjf6g8peXvD3knf-r_A)
+
+---
+
+[使用我的马克将通义千问生成的内容转换为Word格式](https://www.bilibili.com/video/BV1tYw2zPEHf/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
 

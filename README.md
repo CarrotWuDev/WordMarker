@@ -18,6 +18,23 @@
 
 ---
 
+目前 WordMarker2.0.0 已登录微软商店，Windows 平台的用户可以直接在微软商店搜索 [u]我的马克/WordMarker[/u] 进行下载。
+
+
+<a href="https://get.microsoft.com/installer/download/9p36z3hsbczg?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/zh-cn%20light.svg" width="200"/>
+</a>
+
+![微软商店|690x388](upload://hkbbPy6HZISDabBIdtjDzoPzBPd.jpeg)
+
+
+如果不方便使用微软商店进行下载或者其它平台的用户可以直接使用下面的下载链接进行下载。
+
+下载直链：[WordMarker V2.0.0](https://www.ilanzou.com/s/QmempsdV?code=2026)
+> 注意：该链接不限速，也不需要登录。选择对应的平台下载即可。
+
+---
+
 
 [我的马克视频介绍](https://www.bilibili.com/video/BV1wwNgzhEac/?spm_id_from=333.1387.0.0)
 

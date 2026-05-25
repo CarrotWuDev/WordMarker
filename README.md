@@ -4,7 +4,7 @@
 
 ---
 
-目前 WordMarker2.0.0 已登录微软商店，Windows 平台的用户可以直接在微软商店搜索 [u]我的马克/WordMarker[/u] 进行下载。
+目前 WordMarker 已登录微软商店，Windows 平台的用户可以直接在微软商店搜索 [u]我的马克/WordMarker[/u] 进行下载。
 
 <a href="https://apps.microsoft.com/detail/9p36z3hsbczg?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>

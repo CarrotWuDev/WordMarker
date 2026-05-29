@@ -12,7 +12,7 @@
 
 如果不方便使用微软商店进行下载或者其它平台的用户可以直接使用下面的下载链接进行下载。
 
-下载直链：[WordMarker V2.0.0](https://www.ilanzou.com/s/QmempsdV?code=2026)
+下载直链：[WordMarker ALl Versions]([https://www.ilanzou.com/s/QmempsdV?code=2026](https://www.ilanzou.com/s/2mGM2MKS?code=2026))
 > 注意：该链接不限速，也不需要登录。选择对应的平台下载即可。
 
 ---

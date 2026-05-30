@@ -1,6 +1,6 @@
 # 我的马克：将AI生成的内容转换为Word格式
 
-![WordMarker Logo](./images/app-icon.png)
+![](./images/screenshot1.gif)
 
 ---
 
